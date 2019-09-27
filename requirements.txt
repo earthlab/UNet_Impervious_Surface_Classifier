@@ -1,0 +1,5 @@
+torch==0.4.1
+numpy==1.15.0
+torchvision==0.2.1
+cuda90 == 1.0
+
