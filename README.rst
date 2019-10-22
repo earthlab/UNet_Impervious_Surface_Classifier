@@ -1,3 +1,6 @@
+.. image:: https://zenodo.org/badge/211375914.svg
+   :target: https://zenodo.org/badge/latestdoi/211375914
+
 ===========================================
 UNet Impervious Surface Segmentation
 ===========================================
